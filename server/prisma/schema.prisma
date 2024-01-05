@@ -11,12 +11,13 @@ datasource db {
 }
 
 model user {
-  id           Int    @id @default(autoincrement())
+  id           Int      @id @default(autoincrement())
   name         String
-  phone_num    String @unique
-  email        String @unique
+  phone_num    String   @unique
+  email        String   @unique
   password     String
-  transactions Json
+  transactions Json?
+  high_spender Boolean?
 
   @@index([phone_num])
 }

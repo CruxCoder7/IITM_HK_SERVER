@@ -1,0 +1,49 @@
+,Time,Unix Time,Trans_Id,Name,Acc Num,Merchant Name,Merchant Acc Name,Amount,Description,Lat,Long,Is_Safe
+0,2024-01-05 09:15,1704426300,TID123474,Adarsh,1234567890123456,Online Books Store,XYZ Bookshop,50.0,Purchase textbooks,37.7749,-122.4194,Yes
+1,2024-01-05 12:30,1704438000,TID123483,Adarsh,1234567890123456,Campus Cafeteria,ABC Dining Services,10.5,Lunch with friends,37.7749,-122.4194,Yes
+2,2024-01-06 15:45,1704536100,TID123486,Adarsh,1234567890123456,Electronics Store,Tech Haven Electronics,120.0,Laptop accessories,37.7749,-122.4194,Yes
+3,2024-01-07 08:20,1704595800,TID123459,Adarsh,1234567890123456,Grocery Store,Fresh Mart,30.75,Weekly groceries,37.7749,-122.4194,Yes
+4,2024-01-08 14:00,1704702600,TID123488,Adarsh,1234567890123456,Gym Membership,Fit Zone,60.0,Monthly gym subscription,37.7749,-122.4194,Yes
+5,2024-01-09 20:45,1704813300,TID123479,Adarsh,1234567890123456,Movie Theater,Cineplex,25.0,Movie night with friends,37.7749,-122.4194,Yes
+6,2024-01-10 12:30,1704870000,TID123495,Adarsh,1234567890123456,Electronics Store,Gadgets Galore,80.0,Smartphone accessories,37.7749,-122.4194,Yes
+7,2024-01-11 18:15,1704977100,TID123489,Adarsh,1234567890123456,Concert Venue,Music Haven,75.0,Concert tickets,37.7749,-122.4194,Yes
+8,2024-01-05 10:30,1704430800,TID123498,Prema Varadhan,9876543210987654,Office Supplies Inc,Business Essentials Ltd,150.0,Office supplies purchase,40.7128,-74.006,Yes
+9,2024-01-07 14:45,1704618900,TID123485,Prema Varadhan,9876543210987654,Business Lunch Spot,Gourmet Bites,35.5,Lunch meeting with client,40.7128,-74.006,Yes
+10,2024-01-09 11:20,1704779400,TID123481,Prema Varadhan,9876543210987654,Technology Solutions,Tech Innovators Inc,500.0,IT consulting services,40.7128,-74.006,Yes
+11,2024-01-11 16:00,1704969000,TID123469,Prema Varadhan,9876543210987654,Business Travel Hub,Travel Connections,800.0,Business trip expenses,40.7128,-74.006,Yes
+12,2024-01-13 09:15,1705117500,TID123461,Prema Varadhan,9876543210987654,Professional Wardrobe,Fashion Emporium,250.0,Clothing for meetings,40.7128,-74.006,Yes
+13,2024-01-05 12:00,1704436200,TID123465,Kiran,6543210987654321,Grocery Mart,Fresh Foods,75.5,Monthly groceries,41.8781,-87.6298,Yes
+14,2024-01-07 15:30,1704621600,TID123492,Kiran,6543210987654321,Home Improvement,Home Comforts,120.0,DIY home repair,41.8781,-87.6298,Yes
+15,2024-01-09 09:45,1704773700,TID123484,Kiran,6543210987654321,Family Restaurant,Cozy Kitchen,40.0,Dinner with family,41.8781,-87.6298,Yes
+16,2024-01-11 13:20,1704959400,TID123499,Kiran,6543210987654321,Electronics Store,Tech Junction,150.0,Family tablet purchase,41.8781,-87.6298,Yes
+17,2024-01-13 16:45,1705144500,TID123468,Kiran,6543210987654321,Children's Store,Kids Emporium,80.0,Kids' clothing,41.8781,-87.6298,Yes
+18,2024-01-15 10:15,1705293900,TID123471,Kiran,6543210987654321,Pharmacy,Health Haven,30.5,Medicine for the family,41.8781,-87.6298,Yes
+19,2024-01-17 14:30,1705482000,TID123493,Kiran,6543210987654321,Outdoor Recreation,Sport Haven,90.0,Family outdoor gear,41.8781,-87.6298,Yes
+20,2024-01-19 11:00,1705642200,TID123458,Kiran,6543210987654321,Clothing Store,Fashion Plaza,60.0,Family clothing shopping,41.8781,-87.6298,Yes
+21,2024-01-21 15:00,1705829400,TID123477,Kiran,6543210987654321,Local Cafe,Java Delight,15.0,Family coffee outing,41.8781,-87.6298,Yes
+22,2024-01-23 09:30,1705982400,TID123490,Kiran,6543210987654321,Home Appliance Store,Appliance Haven,200.0,New home appliance,41.8781,-87.6298,Yes
+23,2024-01-05 09:00,1704425400,TID123478,Lokesh,9876543210123456,Electronics Store,Tech Haven,500.0,Laptop upgrade,37.7749,-122.4194,Yes
+24,2024-01-07 12:30,1704610800,TID123491,Lokesh,9876543210123456,Online Gadgets,Gadget Galaxy,150.0,Smartphone accessories,37.7749,-122.4194,Yes
+25,2024-01-09 15:45,1704795300,TID123462,Lokesh,9876543210123456,Software Subscription,Code Master,30.0,Monthly software subscription,37.7749,-122.4194,Yes
+26,2024-01-11 08:20,1704941400,TID123463,Lokesh,9876543210123456,Coffee Shop,Caffeine Fix,10.5,Coffee and snacks,37.7749,-122.4194,Yes
+27,2024-01-13 14:00,1705134600,TID123476,Lokesh,9876543210123456,Online Bookstore,Geek Reads,40.0,Technical books purchase,37.7749,-122.4194,Yes
+28,2024-01-15 10:45,1705295700,TID123466,Lokesh,9876543210123456,Electronics Store,VR Haven,200.0,Virtual Reality headset,37.7749,-122.4194,Yes
+29,2024-01-17 13:30,1705478400,TID123482,Lokesh,9876543210123456,Tech Conference,Tech Summit,300.0,Conference registration,37.7749,-122.4194,Yes
+30,2024-01-19 11:15,1705643100,TID123467,Lokesh,9876543210123456,Online Courses,Tech Learning,50.0,Online courses subscription,37.7749,-122.4194,Yes
+31,2024-01-21 16:30,1705834800,TID123457,Lokesh,9876543210123456,Electronics Store,Smart Home Hub,120.0,Smart home device,37.7749,-122.4194,Yes
+32,2024-01-23 09:45,1705983300,TID123464,Lokesh,9876543210123456,Computer Hardware,Upgrade Central,80.0,Computer hardware upgrade,37.7749,-122.4194,Yes
+33,2024-01-05 08:30,1704423600,TID123472,Vimal,8765432109876543,Hotel Booking,TravelStay,200.0,Hotel accommodation,34.0522,-118.2437,Yes
+34,2024-01-07 14:15,1704617100,TID123473,Vimal,8765432109876543,Client Lunch Spot,Executive Bites,45.5,Business lunch meeting,41.8781,-87.6298,Yes
+35,2024-01-09 11:45,1704780900,TID123456,Vimal,8765432109876543,Airline Ticket,Flight Hub,500.0,Business trip flight,40.7128,-74.006,Yes
+36,2024-01-11 15:30,1704967200,TID123502,Vimal,8765432109876543,Rental Car Service,Drive Easy,80.0,Car rental for travel,37.7749,-122.4194,Yes
+37,2024-01-13 09:00,1705116600,TID123480,Vimal,8765432109876543,Conference Registration,Biz Expo,150.0,Conference registration fee,47.6062,-122.3321,Yes
+38,2024-01-15 13:45,1705306500,TID123494,Vimal,8765432109876543,Mobile Data Plan,Telecom Connect,30.0,Travel data plan,36.7783,-119.4179,Yes
+39,2024-01-17 10:30,1705467600,TID123470,Vimal,8765432109876543,Travel Meals,Food Express,25.0,Meals during travel,32.7157,-117.1611,Yes
+40,2024-01-19 14:00,1705653000,TID123475,Vimal,8765432109876543,Business Supplies,Market Link,60.0,Office supplies for travel,33.6846,-117.8265,Yes
+41,2024-01-21 12:15,1705819500,TID123497,Vimal,8765432109876543,Coffee Shop,Caffeine Fix,10.5,Coffee during work,38.9072,-77.037,Yes
+42,2024-01-23 16:00,1706005800,TID123496,Vimal,8765432109876543,Client Dinner Venue,Fine Dining,20.0,Dinner with clients,40.7128,-74.006,Yes
+43,2023-01-05 14:00,1672907400,TID123460,Thomas,7654321098765432,Pharmacy,Health Haven,35.5,Medicine refill,38.8951,-77.0364,Yes
+44,2023-04-09 11:30,1681020000,TID123503,Thomas,7654321098765432,Medical Services,Dr. Smith Clinic,80.0,Doctor consultation,38.8951,-77.0364,Yes
+45,2023-07-13 09:45,1689221700,TID123500,Thomas,7654321098765432,Pharmacy,Wellness Pharmacy,20.0,Over-the-counter medicine,38.8951,-77.0364,Yes
+46,2024-01-17 16:30,1705489200,TID123501,Thomas,7654321098765432,Health Supplies,Comfort Care,15.0,Healthcare products,38.8951,-77.0364,Yes
+47,2024-07-21 12:15,1721544300,TID123487,Thomas,7654321098765432,Pharmacy,MediCorner,40.0,Prescription medication,38.8951,-77.0364,Yes
