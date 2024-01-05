@@ -64,14 +64,14 @@ app.post("/login", async (req: Request, res: Response) => {
 
   delete (user as { password?: string }).password
   console.log(user)
-  const token = jwt.sign(user, process.env.SECRET_KEY!, { expiresIn: "10h" })
-  res.json(token)
+  const token = jwt.sign(user, "highlysecretkey123", { expiresIn: "10h" })
+  return res.json(token)
 })
 
 app.post("/verify", async (req: Request, res: Response) => {
   if (req.headers.authorization) {
     const token = req.headers.authorization.split("Bearer ")[1]
-    const check = jwt.verify(token, process.env.SECRET_KEY!)
+    const check = jwt.verify(token, "highlysecretkey123")
     if (check) {
       const user = jwt.decode(token)
       return res.json(user)

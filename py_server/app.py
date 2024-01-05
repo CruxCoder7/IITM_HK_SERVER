@@ -46,7 +46,6 @@ models = {
     'personal_care': ''
 }
 
-
 @app.route('/transaction',methods=['GET',"POST"])
 def transaction():
     data = request.get_json()
